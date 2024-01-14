@@ -1,0 +1,1 @@
+wsl.exe -u root -- sh -c "bash ./createUsers.sh"
