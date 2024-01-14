@@ -1,4 +1,4 @@
-# WSL Installation and maintenance for Developers
+# WSL installation and maintenance for Developers
 
 ### We have the following situation at work:
 

@@ -15,10 +15,11 @@ We will
     -   copy pre-existing public keys for key-based authentication
     -   install `node version manager` (nvm) for each user
 
-To make sure every script is in its place, connect to your remote machine via **Remote Desktop Connection**, download [this repo](#) and extract it!
+To make sure every script is in its place, connect to your remote machine via **Remote Desktop Connection**, download [this repo](github.com/subnetz/WSL-Init/archive/master.zip) and **extract it!**
+
 It should look like this:
 
-```ini
+```
 some_folder\
     copy_startup_script.bat
     headless.md

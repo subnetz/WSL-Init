@@ -12,6 +12,8 @@ We will
     -   we use our local ssh keys to authenticate with the remote machine
     -   we use our local ssh keys to authenticate with git
 
+To make sure every script is in its place, download [this repo](github.com/subnetz/WSL-Init/archive/master.zip) and **extract it!**
+
 ## Install Visual Studio Code
 
 Install vscode [from here](https://code.visualstudio.com/download).
